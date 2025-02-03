@@ -21,6 +21,11 @@ Dieses Spiel ist ein Puzzle-Spiel, bei dem der Spieler verschiedene Escape Rooms
 2. Erstellung, Umsetzung und Programmierung der Karte, der Rätsel und dem Spieler.
 3. Dokumentation und Power Point
 
-## Optionale Ziele
-1. Mehrspieler Fähig
+## Optionales Ziel 1
+Mehrspieler Fähig
+
+## Optionales Ziel 2
+Mehr Levels
+
+
 
