@@ -16,7 +16,7 @@ Dieses Spiel ist ein Puzzle-Spiel, bei dem der Spieler verschiedene Escape Rooms
 - **Plattform**: PC (später möglicherweise erweiterbar)
 
 
-## Aktuelle Milestones
+## Milestones
 1. Vorbereitung und Planung von der Karte, der Rätsel und dem Spieler.
 2. Erstellung, Umsetzung und Programmierung der Karte, der Rätsel und dem Spieler.
 3. Dokumentation und Power Point
